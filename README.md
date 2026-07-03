@@ -1,7 +1,7 @@
-# <p align="center">👋 Welcome to My Space! I'm Mouiezuddin Killedar</p>
+# <p align="center">⚡ Mouiezuddin Killedar</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=2500&pause=800&color=2563eb&center=true&vCenter=true&width=500&lines=Full+Stack+Python+Developer;Django+%26+React+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=2500&pause=800&color=3b82f6&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Python+Developer;React+%26+Django+REST+Specialist;Backend+Performance+Optimizer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,64 +11,88 @@
 ---
 
 ## 🚀 About Me
+I am a **Full Stack Python Developer** based in Karnataka, India, with a **Bachelor of Computer Applications (BCA)** (GPA: 8.5/10.0). I specialize in designing and deploying production-grade backend REST APIs, optimizing database architectures to slash response times, and building clean, responsive user interfaces.
 
-I am a results-driven **Full Stack Python Developer** based in Karnataka, India, holding a **Bachelor of Computer Applications (BCA)**. I specialize in designing and engineering high-availability backends, creating responsive frontend views, and deploying containerized services.
-
-* 🔍 **Focus**: Architecting secure REST APIs, row-level concurrency protection, and database schema optimizations.
-* 🛠️ **Current Venture**: Developing a containerized **Vehicle Breakdown Assistance Platform** to digitize roadside assistance logistics.
-* 🎓 **Goal**: Expanding my system design capabilities with Cloud Native architectures and serverless microservices.
-
----
-
-## ⚡ Quick Facts
-
-* 📍 **Base**: Karnataka, India
-* 💻 **Primary Stack**: Python, Django, React, PostgreSQL, Docker
-* ⚡ **Fun Fact 1**: I write clean code, but I drink my coffee dark and complex.
-* ⚡ **Fun Fact 2**: I enjoy debugging async concurrency bugs—it feels like detective work.
-* ⚡ **Fun Fact 3**: My favorite keyboard shortcut is `Ctrl` + `Shift` + `P`.
-* ⚡ **Fun Fact 4**: I believe code readability is written for humans first, computers second.
-* ⚡ **Fun Fact 5**: When not coding, I'm researching system design topology architectures.
+* 🛠️ **Professional Experience**: Worked as a **Full Stack Developer Intern at Innoovatum**, designing and deploying 8+ production-grade web applications serving over **2,000+ monthly active users**.
+* ⚡ **Performance Optimization**: Deeply experienced in query optimization, database indexing, and query refactoring—consistently reducing database search times from **2.5s to 0.3s** (a **75% latency reduction**).
+* 🛡️ **Security Specialist**: Expert in implementing JWT token lifecycles, Role-Based Access Control (RBAC), and secure CSRF/XSS protection boundaries.
 
 ---
 
-## 🗺️ Tech Stack Matrix
+## 🛠️ Technical Stack Matrix
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Programming Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend Frameworks & APIs</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Django_REST-FF170F?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎨 Frontend Frameworks</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>💾 Databases & Caching</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🐳 DevOps & Containers</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧪 Testing & Systems</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend Frameworks & Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Django_REST-FF170F?style=for-the-badge&logo=django&logoColor=white" alt="DRF">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
+---
 
-### 🎨 Frontend Libraries & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</p>
+## 💼 Professional Experience
 
-### 💾 Databases & Caching
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
+### **Full Stack Developer Intern** | Innoovatum *(Remote)*
+*📅 February 2024 – April 2024*
 
-### 🐳 DevOps & Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+* **Designed & Deployed 8 Full-Stack Applications**: Served 2,000+ monthly active users combined across all platforms using Django and Flask.
+* **REST API & Auth Architecture**: Built production-grade APIs using Django REST Framework backed by JWT authentication and granular endpoints security, maintaining a **99.5% uptime record**.
+* **Database & Query Tuning**: Designed normalized database schemas and implemented indexing strategies in PostgreSQL, dropping API response latency **from 800ms to 200ms** (75% performance gain).
+* **Search Optimization**: Refactored query models to optimize full-text searches, reducing query execution times **from 2.5s down to 0.3s**.
+* **Role-Based Workspaces**: Built robust multi-role authentication scopes (Librarian, Member, Customer, Staff, Admin) using Django's core authentication components.
+* **TDD & Agile QA**: Applied agile methodologies, conducted merge conflict resolution, and wrote unit tests with Pytest.
 
 ---
 
@@ -91,65 +115,61 @@ I am a results-driven **Full Stack Python Developer** based in Karnataka, India,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mouiezuddin&theme=solarized_light" alt="Productive Time" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mouiezuddin&theme=solarized_light" alt="GitHub Details" width="96%" />
-</p>
+---
+
+## 📂 Featured Production Projects
+
+### 📦 1. Inventory & Shop Management System
+* **Description**: Full-stack POS billing dashboard custom built for battery and lighting retailers. Features barcode lookup listeners, dynamic thermal receipt printer triggers, and backup/restore singletons.
+* **Stack**: React JS, Django REST Framework, Vite, SQLite, Tailwind CSS.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/Inventory_management-website)
+
+### 📚 2. Library Management System
+* **Description**: Multi-role library portal supporting checkout registers, issuance track calendars, and automated fine calculation engines. Supports 50+ concurrent active sessions.
+* **Stack**: Django 4.2, Django ORM, SQLite, Bootstrap 5.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/librarymanagementsystem) | [Live Application](https://librarymanagementsystem-0cty.onrender.com)
+
+### 🚗 3. Vehicle Breakdown Assistance Platform
+* **Description**: An active breakdown logistics mapping network matching stranded drivers with registered repair garages.
+* **Stack**: Django ORM, React JS, PostgreSQL, Google Maps API.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/lms_management_system)
+
+### ✍️ 4. Developer's Tale Blog Platform
+* **Description**: A developer-focused markdown publishing platform with real-time text parsing, syntax highlighting code blocks, and admin moderation gates.
+* **Stack**: Django, PostgreSQL, Bootstrap 5, Javascript.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/Blog_platform) | [Live Application](https://developers-tale.onrender.com)
+
+### 🔋 5. Calorie Tracker
+* **Description**: A full-stack health assistant equipped with pre-loaded ingredient portions and daily consumption summaries.
+* **Stack**: Django, SQLite, Django ORM, JavaScript, HTML5/CSS3.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/Calories_Counter)
+
+### 🍔 6. Restaurant Management System
+* **Description**: Operations ledger for restaurant tables management, menu editing, and live kitchen dispatch tickets.
+* **Stack**: Django, Django ORM, PostgreSQL, React, Bootstrap 5.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/restaurant-management-project-in-python)
+
+### 🎨 7. Interactive Portfolio Website
+* **Description**: My personal profile showcase rendering responsive transition elements, skill highlights, and a clean contact portal.
+* **Stack**: HTML5, CSS3, JavaScript, Netlify.
+* **Code & Demo**: [Repository Link](https://github.com/Mouiezuddin/Portfolio) | [Live Application](https://mouiezuddinportfolio.netlify.app)
 
 ---
 
-## 📁 Featured Projects
-
-### 🚗 1. Vehicle Breakdown Assistance Platform
-* **Description**: A responsive web portal mapping stranded motorists with nearby registered mechanic garages for real-time roadside recovery.
-* **Tech Stack**: Python, Django, Javascript, Google Maps API, SQLite.
-* **Key Features**: Geolocation mapping, service request queues, active mechanic rosters, SMS confirmation triggers.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin) | [Live Application](https://github.com/Mouiezuddin)
-
-### 📦 2. Inventory & Shop Management System
-* **Description**: A split-panel POS billing and stock allocation panel designed for hardware and electrical retailers.
-* **Tech Stack**: React, Django REST Framework, Vite, SQLite, Tailwind CSS.
-* **Key Features**: Barcode scanning inputs, digit clipping safeguards, local PDF invoices compiler, transaction log auditing.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin/Inventory_management-website) | [Live Application](https://github.com/Mouiezuddin/Inventory_management-website)
-
-### 📚 3. Library Management System
-* **Description**: A portal tracking book availability, check-outs, issue dates, and automated penalty calculations.
-* **Tech Stack**: Python, Flask, MySQL, Bootstrap.
-* **Key Features**: User dashboards, catalog search indexers, borrowing limits, automated due alerts.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin) | [Live Application](https://github.com/Mouiezuddin)
-
-### 🍔 4. Restaurant Management System
-* **Description**: An operational table management, order tracking, and billing ledger designed for dining staffs.
-* **Tech Stack**: React, Django, PostgreSQL.
-* **Key Features**: Table availability grids, live kitchen dispatch terminals, billing calculations.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin) | [Live Application](https://github.com/Mouiezuddin)
-
-### ✍️ 5. Developer's Tale Blog Platform
-* **Description**: A Markdown-friendly blogging network built for software engineers to document technical insights.
-* **Tech Stack**: Django REST Framework, React, Tailwind CSS.
-* **Key Features**: Live markdown parsing, syntax highlighting code fences, tag grouping, comment threads.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin) | [Live Application](https://github.com/Mouiezuddin)
-
-### 🎨 6. Portfolio Website
-* **Description**: My personal portfolio showcasing technical accomplishments, skill arrays, and contact sections.
-* **Tech Stack**: HTML, CSS, JavaScript, Netlify.
-* **Key Features**: Fully responsive transitions, inquiry forms, dynamic product lists.
-* **Links**: [Repository Link](https://github.com/Mouiezuddin) | [Live Application](https://mouiezuddinportfolio.netlify.app)
+## 🎯 Continuous Learning & Roadmap
+* [x] **Advanced Django Backend REST APIs** (Query sets tuning, row locks)
+* [x] **Vite Single Page Web Apps** (Context state hooks, toast utilities)
+* [x] **DevOps Containerization** (Multi-container Docker orchestration)
+* [ ] **Cloud Architecture** (AWS ECS, RDS Postgres, IAM policies)
+* [ ] **Async Job Workers** (Celery, Redis broker polling queues)
+* [ ] **System Design** (Load balancing, horizontal scaling, reverse proxies)
 
 ---
 
-## 🎯 Current Focus & Roadmap
-
-* [x] **Advanced Django API Optimization** (Database query tuning, row locking)
-* [x] **Vite Single Page Architectures** (State management context wrappers)
-* [x] **DevOps Basics** (Docker container configurations)
-* [ ] **Cloud Hosting** (AWS ECS, RDS Integration)
-* [ ] **Container Orchestration** (Kubernetes deployment clusters)
-* [ ] **Event-Driven Broker Systems** (Redis, Celery async triggers)
-
----
-
-## 🤝 Open Source & Collaboration
-I am highly interested in contributing to open-source tools, API gateways, Python packaging engines, and developer-centric utilities. If you are working on an interesting tool, let's connect and build together!
+## 📜 Certifications
+* **Generative AI for Everyone** — Coursera (2025)
+* **Microsoft Copilot for Security** — Microsoft (2025)
+* **Data Analyst 101** — Certificate Code: `8615099`
 
 ---
 
