@@ -184,7 +184,7 @@ I am a **Full Stack Python Developer** based in Karnataka, India, with a **Bache
       </a>
     </td>
     <td align="center">
-      <a href="https://mouiezuddinportfolio.netlify.app">
+      <a href="Mouiezuddin Killedar runs-on.dev">
         <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /><br />
         <b>mouiezuddinportfolio</b>
       </a>
